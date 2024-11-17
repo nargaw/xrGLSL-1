@@ -1,0 +1,22 @@
+html,
+body,
+#root
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.545);
+    overflow: hidden;
+    margin: 0;
+}
+
+.button {
+  cursor: pointer;
+  border: 1px solid white;
+  padding: 5px;
+  margin: 5px;
+  color: white;
+}
+
